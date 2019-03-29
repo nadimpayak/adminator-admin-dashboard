@@ -1,0 +1,2 @@
+# adminator-admin-dashboard
+dashboard
